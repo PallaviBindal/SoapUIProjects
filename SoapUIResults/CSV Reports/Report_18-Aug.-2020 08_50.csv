@@ -1,0 +1,10 @@
+Test Suite,Test Case,Test Step,Step Type,Step Status,Result message,Execution Date
+Regression Test SuiteWithValidValues,EndToEndtestcasewithGroovy,Add,request,OK,,18-Aug.-2020 08_50
+Regression Test SuiteWithValidValues,EndToEndtestcasewithGroovy,Groovy Script,groovy,OK,,18-Aug.-2020 08_50
+Regression Test SuiteWithValidValues,EndToEndtestcasewithGroovy,Multiply,request,OK,,18-Aug.-2020 08_50
+Regression Test SuiteWithValidValues,EndToEndtestcasewithGroovy,Properties,properties,OK,,18-Aug.-2020 08_50
+Regression Test SuiteWithValidValues,TestCasewithPropertyTransfer,Add,request,OK,,18-Aug.-2020 08_50
+Regression Test SuiteWithValidValues,TestCasewithPropertyTransfer,Properties,properties,OK,,18-Aug.-2020 08_50
+Regression Test SuiteWithValidValues,TestCasewithPropertyTransfer,Divide,request,OK,,18-Aug.-2020 08_50
+Regression Test SuiteWithValidValues,TestCasewithPropertyTransfer,Property Transfer,transfer,OK,"Message:Performed transfer [Transfer1]
+",18-Aug.-2020 08_50
